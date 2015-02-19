@@ -1,0 +1,4 @@
+O Vortex of Doom é descrito em:
+https://github.com/garoa/hackerclube/issues/2
+
+Este diretório contém os arquivos vetoriais do cartaz utilizado para indicação da sua localização no clube.
